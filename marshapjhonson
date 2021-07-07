@@ -1,0 +1,54 @@
+<main id="main">
+  <h1 id="title">Marsha P. Jhonson</h1>
+  <p>Travesti e ativista dos Estados Unidos pela Libertação Gay</p>
+  <figure id="img-div">
+    <img
+      id="image"
+      src="https://revistahibrida.com.br/content/uploads/2018/09/marsha-2.jpg"
+      alt="Marsha entregando panfletos de militância queer na NYU, durante a década de 1970 (Foto: Reprodução)"
+    />
+    <figcaption id="img-caption">
+     Marsha entregando panfletos de militância queer na NYU, durante a década de 1970 (Foto: Reprodução).
+    </figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h3 id="headline">Linha do Tempo de Marsha P. Jhonson:</h3>
+    <ul>
+      <li><strong>1945</strong> - Nasceu em New Jersey, NY</li>
+      <li>
+        <strong>1963</strong> -  Após o término do ensino médio na Edison High School, abandonou sua casa e foi para Nova Iorque com apenas US$ 15 dólares e uma mala com roupas.
+      </li>
+      <li>
+        <strong>1966</strong> - Johnson vivia nas ruas e se dedicava à sobrevivência sexual.
+      </li>
+     <li>
+       <strong>1970</strong> - Johnson foi baleada. No mesmo ano, falou sobre o primeiro colapso mental que teve. De acordo com Bob Kohler, Johnson andava nua na Christopher Street e foi levada por dois ou três meses para ser tratada com clorpromazina, um medicamento antipsicótico receitado para pacientes esquizofrênicos. </li>
+       <li>
+      <strong>1972</strong> - Johnson disse em uma entrevista que seu objetivo era "ver gays liberados e livres e ter direitos iguais aos de outras pessoas na América", com seus "irmãos e irmãs gays fora da cadeia e nas ruas novamente”.
+      </li>
+      <li>
+        <strong>1992</strong> No dia 6 de julho de 1992, o corpo de Johnson foi encontrado no fundo do rio Hudson, em Nova York. A morte foi definida como suicídio, mas pessoas próximas da ativista não acreditavam na versão oficial da polícia, relembrando que casos de ataque a pessoas trans eram comuns.
+      </li>
+      <li>
+          <strong>2012</strong> Segundo a BBC, em 2012, vinte anos depois da morte, o departamento de polícia de Nova York reabriu o caso, depois de esforços da ativista Mariah Lopez.
+      </li>
+    </ul>
+    <blockquote
+      cite="http://news.rediff.com/report/2009/sep/14/pm-pays-tribute-to-father-of-green-revolution-borlaug.htm"
+    >
+      <p>
+        "No pride for some of us without liberation for all of us"
+      </p>
+      <cite>-- Marsha P. Johnson
+    </blockquote>
+    <h3>
+      Você pode conhecer mais sobre ela em
+      <a
+        id="tribute-link"
+        href="https://pt.wikipedia.org/wiki/Marsha_P._Johnson"
+        target="_blank"
+        >Wikipedia entry</a
+      >.
+    </h3>
+  </section>
+</main>
